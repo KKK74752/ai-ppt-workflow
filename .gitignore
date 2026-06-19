@@ -1,0 +1,28 @@
+﻿# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Python (if added later)
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Environment
+.env
+.env.local
+
+# Project specific - no order data or personal financial info
+*订单金额*
+*财务*
